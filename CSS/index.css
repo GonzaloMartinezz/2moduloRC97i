@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* necesito ponerle un color al navbar y con el background no puedo */
+.navbar {
+  background-color: cadetblue;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* falta css del main */
+
+footer {
+  margin-top: auto;
+}
